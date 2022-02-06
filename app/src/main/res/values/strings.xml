@@ -5,4 +5,6 @@
     <string name="login_button">Login</string>
     <string name="login_cancel_button">Cancel</string>
     <string name="login_error_message">Password must have 6 characters</string>
+    <string name="telefono_title">Title</string>
+    <string name="telefono_description">hi, this is a new car.</string>
 </resources>
